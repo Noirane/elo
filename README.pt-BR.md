@@ -27,11 +27,21 @@ Sem foto, sem nome verdadeiro, sem e-mail à mostra. Só o assunto e a conversa.
 
 ## Experimente
 
-**[⬇ Baixar o APK de demonstração](../../releases/latest)** (Android)
+<table>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://github.com/Noirane/elo/releases/latest"><img src="docs/qr-download.png" width="200" alt="QR code"></a><br>
+      <sub>Aponte a câmera do celular Android</sub>
+    </td>
+    <td>
+      <b><a href="https://github.com/Noirane/elo/releases/latest">⬇ Baixar o APK de demonstração</a></b> (Android)
+    </td>
+  </tr>
+</table>
 
 A demonstração roda inteira no celular, sem login e sem servidor. Os outros viajantes são simulados: cada um tem personalidade e sabe coisas sobre o assunto, então a conversa fica bem perto da real.
 
-1. Abra o link no celular Android e baixe o arquivo `.apk`.
+1. Escaneie o QR code com a câmera do celular Android (ou abra o link) e baixe o arquivo `.apk`.
 2. Toque no arquivo. Se o Android pedir, permita instalar apps desta fonte.
 3. Se o Play Protect avisar, escolha **Instalar mesmo assim** (o app não está na Play Store).
 

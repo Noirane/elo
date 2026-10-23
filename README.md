@@ -27,11 +27,21 @@ No photos, no real names, no email shown. Just the topic and the conversation.
 
 ## Try it
 
-**[⬇ Download the demo APK](../../releases/latest)** (Android)
+<table>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://github.com/Noirane/elo/releases/latest"><img src="docs/qr-download.png" width="200" alt="QR code"></a><br>
+      <sub>Scan with your Android phone</sub>
+    </td>
+    <td>
+      <b><a href="https://github.com/Noirane/elo/releases/latest">⬇ Download the demo APK</a></b> (Android)
+    </td>
+  </tr>
+</table>
 
 The demo runs entirely on the phone, with no login and no server. The other travelers are simulated: each one has a personality and knows things about the topic, so conversations feel close to the real thing.
 
-1. Open the link on an Android phone and download the `.apk`.
+1. Scan the QR code with your Android phone camera (or open the link) and download the `.apk`.
 2. Tap the file. If Android asks, allow installing apps from this source.
 3. If Play Protect warns you, choose **Install anyway** (the app is not on the Play Store).
 
